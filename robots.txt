@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sanchezconsultingservices.com/sitemap.xml
+Sitemap: https://mdeveloper310.github.io/sanchez-consulting-site/sitemap.xml
